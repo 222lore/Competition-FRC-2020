@@ -25,10 +25,10 @@ public final class Constants {
   // === MOTOR PORTS === //
 
   // Drivetrain
-  public static final int FRONT_LEFT_DRIVE_PORT = 1; // 2
-  public static final int BACK_LEFT_DRIVE_PORT = 3; // 1
-  public static final int FRONT_RIGHT_DRIVE_PORT = 2; // 0
-  public static final int BACK_RIGHT_DRIVE_PORT = 0; // 3
+  public static final int FRONT_LEFT_DRIVE_PORT = 3; // 1
+  public static final int BACK_LEFT_DRIVE_PORT = 0; // 3
+  public static final int FRONT_RIGHT_DRIVE_PORT = 2; // 2
+  public static final int BACK_RIGHT_DRIVE_PORT = 1; // 0
 
   // Intake
   public static final int WHEEL_INTAKE_PORT = 0;
